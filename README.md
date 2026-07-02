@@ -9,7 +9,7 @@ This repository provides the core technical documentation, API integration scrip
 Organized technical insights to streamline your cross-border e-commerce operations.
 
 ### 1. Beginner & Practical Guides (基础入门与实操)
-- [Youdao Translation Tutorial 2026: From Zero to Hero](https://fanyiyuyou.com/youdao-translation-tutorial-2026/)
+- [Youdao Translation Tutorial 2026: From Zero to Hero](https://fanyiyuyou.com/youdao-translation-tutorial-2026)
 - [PDF Translation without Formatting Errors](https://fanyiyuyou.com/youdao-translation-pdf-translation-guide)
 - [How to Integrate Youdao API with Your Personal Blog](https://fanyiyuyou.com/youdao-translation-api-integration-tutorial)
 
