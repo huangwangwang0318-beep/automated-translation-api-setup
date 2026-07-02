@@ -8,7 +8,7 @@ This repository contains the core configuration, API integration scripts, and te
 ## 📚 Complete Article Archive
 
 ### 1. Beginner & Practical Guides
-- [有道翻译怎么用？2026最全使用教程](https://fanyiyuyou.com/youdao-translation-tutorial-2026/)
+- [有道翻译怎么用？2026最全使用教程](https://fanyiyuyou.com/youdao-translate-tutorial-2026/)
 - [有道翻译文档功能实测：如何一键搞定全英文PDF而不乱码？](https://fanyiyuyou.com/youdao-translation-pdf-translation-guide)
 - [有道翻译 API 调用教程：从零开始申请对接个人博客](https://fanyiyuyou.com/youdao-translation-api-integration-tutorial)
 - [PDF 图片翻译总是乱码？有道翻译这个“截屏翻译”神器，1秒帮你提取文字并翻译！](https://fanyiyuyou.com/youdao-translation-screenshot-translation-tips)
